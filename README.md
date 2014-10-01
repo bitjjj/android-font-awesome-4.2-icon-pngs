@@ -17,4 +17,10 @@ python 2.7
 5) install PIL-1.1.7.win32-py2.7.exe
 
 
+Thanks：
+=======
+
+font-awesome-to-png.py（https://github.com/odyniec/font-awesome-to-png）
+
+
 
